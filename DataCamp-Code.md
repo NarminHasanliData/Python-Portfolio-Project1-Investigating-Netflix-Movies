@@ -9,7 +9,7 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 ## The data
 ### **netflix_data.csv**
 | Column | Description |
-|--------|-------------|
+|------|-------------|
 | `show_id` | The ID of the show |
 | `type` | Type of show |
 | `title` | Title of the show |
